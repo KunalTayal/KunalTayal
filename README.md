@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kunal Tayal</h1>
-<h3 align="center">Passionate Software Engineer with more than a year of experience in developing applications and backend systems. Skilled at writing clear, concise code that is easy to maintain and troubleshoot. Experienced in working with both small and large teams across multiple projects. Able to work independently of remote locations or in office environments as needed by the company.</h3>
+<h3 align="center">Passionate Software Engineer with more than 3 years of experience in developing applications and backend systems. Skilled at writing clear, concise code that is easy to maintain and troubleshoot. Experienced in working with both small and large teams across multiple projects. Able to work independently of remote locations or in office environments as needed by the company.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kunaltayal&label=Profile%20views&color=0e75b6&style=flat" alt="kunaltayal" /> </p>
 
